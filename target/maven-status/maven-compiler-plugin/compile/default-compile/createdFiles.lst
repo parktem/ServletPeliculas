@@ -1,0 +1,8 @@
+es/salesianos/service/DirectorService.class
+es/salesianos/repository/Repository.class
+es/salesianos/servlet/guardarDirector.class
+es/salesianos/model/Pelicula.class
+es/salesianos/connection/ConnectionManager.class
+es/salesianos/model/Director.class
+es/salesianos/model/assembler/DirectorAssembler.class
+es/salesianos/connection/ConnectionH2.class
