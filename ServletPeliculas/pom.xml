@@ -2,10 +2,9 @@
   <modelVersion>4.0.0</modelVersion>
   
   <groupId>es.salesianos</groupId>
-  <artifactId>servletMascotas</artifactId>
+  <artifactId>servletPeliculas</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>servletMascotas</name>
-  <packaging>war</packaging>
+  <name>servletPeliculas</name>
   
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
