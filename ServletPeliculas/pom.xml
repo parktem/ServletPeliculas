@@ -5,7 +5,7 @@
   <artifactId>servletPeliculas</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>servletPeliculas</name>
-  <packaging>war</packaging>
+
   
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
