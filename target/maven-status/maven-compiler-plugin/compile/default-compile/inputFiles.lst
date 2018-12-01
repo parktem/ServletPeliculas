@@ -1,8 +1,0 @@
-/home/alahoz/Escritorio/ServletPeliculas/src/main/java/es/salesianos/servlet/guardarDirector.java
-/home/alahoz/Escritorio/ServletPeliculas/src/main/java/es/salesianos/model/assembler/DirectorAssembler.java
-/home/alahoz/Escritorio/ServletPeliculas/src/main/java/es/salesianos/connection/ConnectionManager.java
-/home/alahoz/Escritorio/ServletPeliculas/src/main/java/es/salesianos/model/Director.java
-/home/alahoz/Escritorio/ServletPeliculas/src/main/java/es/salesianos/model/Pelicula.java
-/home/alahoz/Escritorio/ServletPeliculas/src/main/java/es/salesianos/repository/Repository.java
-/home/alahoz/Escritorio/ServletPeliculas/src/main/java/es/salesianos/connection/ConnectionH2.java
-/home/alahoz/Escritorio/ServletPeliculas/src/main/java/es/salesianos/service/DirectorService.java
